@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Archive Project.<br>🌱 I’m currently learning Data Engineering and Data Science.<br>⚡ I like cats!
+🔭 I’m currently working on the CMPE 40613.<br>🌱 I’m currently learning Data Engineering and Data Science.<br>⚡ I like cats!
 
 
 ## 🌐 Socials:
